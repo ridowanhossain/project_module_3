@@ -6,7 +6,7 @@ This repository contains the code for Project Module 3.
 
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/ridowanhossain/project_module_3
    ```
 2. Navigate to the project directory:
    ```sh
