@@ -1,0 +1,18 @@
+[
+    {
+        "task": "another task",
+        "done": false
+    },
+    {
+        "task": "hello 1",
+        "done": false
+    },
+    {
+        "task": "Learn PHP and JSON operations",
+        "done": false
+    },
+    {
+        "task": "Complete the to-do app project",
+        "done": true
+    }
+]
